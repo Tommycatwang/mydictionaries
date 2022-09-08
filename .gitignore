@@ -1,0 +1,5 @@
+.venv/ 
+# this is the name of the fine that need to be ignore .venv can change to file name 
+retail_space.csv
+# if you want to ignore the all csv file, put *csv over there
+# and this file need to stay inside the project folder not on .venv folder

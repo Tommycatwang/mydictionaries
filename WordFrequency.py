@@ -12,3 +12,6 @@ for wordon in readbook:
 
 for read in list_words.keys():
     print(read + ',' + str(list_words[read]))
+
+readbook.close()
+
